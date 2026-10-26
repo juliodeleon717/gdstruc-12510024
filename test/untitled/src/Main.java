@@ -14,5 +14,16 @@ public class Main {
 
         //change
         // another change to test stuff yadda yadda
+        // asdjasljdj
+        int[] numbers = new int[3];
+        numbers[0] = 67;
+        numbers[1] = 21;
+        numbers[2] = 69;
+        
+        for (int i = 0; i < numbers.length; i++)    
+        {
+
+            System.out.println(numbers[i]);
+        }
     }
 }
